@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Narasimha Gaonkar</h1>
 <h3 align="center">Graduate Student at University at Buffalo. Studying Master's in Data Science.</h3>
 
-- 👨‍💻 All of my projects are available at [github.com/Gaonkar-Narasimha/Gaonkar-Narasimha](github.com/Gaonkar-Narasimha/Gaonkar-Narasimha)
+- 👨‍💻 All of my projects are available at [github.com/narasimha-gaonkar](github.com/narasimha-gaonkar)
 
 - 📫 How to reach me **narasimhagaonkar987@gmail.com**
 
