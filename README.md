@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Narasimha Gaonkar</h1>
 <h3 align="center">Graduate Student at University at Buffalo. Studying Master's in Data Science.</h3>
 
-![](https://komarev.com/ghpvc/?username=narasimha-gaonkar&color=green)
+![](https://komarev.com/ghpvc/?username=narasimha-gaonkar&color=blue&style=plastic)
 
 - 📫 How to reach me **narasimhagaonkar987@gmail.com**
 
