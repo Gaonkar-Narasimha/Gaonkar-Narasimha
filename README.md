@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **narasimhagaonkar987@gmail.com**
 
-- 📄 Know about my experiences [https://github.com/narasimha-gaonkar/documents/blob/main/Narasimha_Gaonkar_Resume.pdf](https://github.com/narasimha-gaonkar/documents/blob/main/Narasimha_Gaonkar_Resume.pdf)
+- 📄 Know about my experiences [Resume.](https://github.com/narasimha-gaonkar/documents/blob/main/Narasimha_Gaonkar_Resume.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
