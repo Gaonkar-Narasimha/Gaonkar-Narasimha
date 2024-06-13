@@ -4,9 +4,9 @@
 ![](https://komarev.com/ghpvc/?username=narasimha-gaonkar&color=blue&style=plastic&label=Profile+Views)
 
 - 📫 How to reach me **narasimhagaonkar987@gmail.com**
-
-- 📄 Know about my experiences [Resume.](https://github.com/narasimha-gaonkar/Resume/blob/main/Narasimha_Gaonkar_Resume.pdf)
-
+<!---
+#- 📄 Know about my experiences [Resume.](https://github.com/narasimha-gaonkar/Resume/blob/main/Narasimha_Gaonkar_Resume.pdf)
+-->
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/narasimha-gaonkar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="narasimha-gaonkar" height="30" width="40" /></a>
