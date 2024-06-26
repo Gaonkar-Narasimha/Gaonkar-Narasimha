@@ -5,7 +5,7 @@
 <!---
 #- 📄 Know about my experiences [Resume.](https://github.com/narasimha-gaonkar/Resume/blob/main/Narasimha_Gaonkar_Resume.pdf)
 -->
-<h3 align="center">Connect with me:</h3>
+<h3 align="center">Connect with me on:</h3>
 
 <p align="center">
 <a href="https://linkedin.com/in/narasimha-gaonkar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="narasimha-gaonkar" height="30" width="40" /></a>
